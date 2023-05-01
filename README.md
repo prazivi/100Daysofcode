@@ -1,3 +1,4 @@
+#100 Day of code
 Welcome to my 100 Days of Code challenge! This is a personal challenge that I have set for myself to commit to coding every day for the next 100 days. The goal of this challenge is to improve my coding skills, build projects, and develop the discipline to code consistently.
 
 Purpose
